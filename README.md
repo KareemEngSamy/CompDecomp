@@ -1,7 +1,8 @@
-# 📦 LZW Compression & Decompression in C++
+# 📦 Compression & Decompression using C++
 
 This project demonstrates a **complete implementation of the LZW (Lempel–Ziv–Welch) compression algorithm** with file I/O support.  
-It can:
+
+
 - Compress text into integer codes
 - Save/load compressed data from files
 - Decompress codes back into the original text
