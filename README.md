@@ -1,4 +1,4 @@
-# 📦 CompDec – LZW Compression & Decompression in C++
+# 📦 LZW Compression & Decompression in C++
 
 This project demonstrates a **complete implementation of the LZW (Lempel–Ziv–Welch) compression algorithm** with file I/O support.  
 It can:
